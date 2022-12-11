@@ -6,3 +6,4 @@ console.log(nombre, hp);
 // IMPORTANTE:
 // Ver la consola de JavaScript
 
+
